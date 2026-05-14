@@ -1,3 +1,5 @@
+#generated a 10m-row synthetic dataset
+
 import pandas as pd
 import random
 import time
